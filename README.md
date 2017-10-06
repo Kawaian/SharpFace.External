@@ -1,5 +1,5 @@
 # SharpFaceExternal
-By 이희준, マティアス コンスタンス.
+By 이희준, 김진관, マティアス コンスタンス.
 
 External libraries used by SharpFace can be found here. 
 Prebuilt binaries for **x86**, **x64**, **arm**, **arm64** are included.
