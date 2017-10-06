@@ -1,4 +1,4 @@
-# SharpFaceExternal
+# SharpFace.External
 By 이희준, 김진관, マティアス コンスタンス.
 
 External libraries used by SharpFace can be found here. 
